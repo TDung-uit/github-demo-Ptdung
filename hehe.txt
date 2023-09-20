@@ -1,2 +1,4 @@
 xin via 10.0 hdl
+<<<<<<< HEAD
 clgv dcmm
+
